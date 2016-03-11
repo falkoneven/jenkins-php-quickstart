@@ -3,7 +3,7 @@
 class Example {
 	
 	public function foo() {
-		return 'bar';
+		return 'barr';
 	}
 	
 }
